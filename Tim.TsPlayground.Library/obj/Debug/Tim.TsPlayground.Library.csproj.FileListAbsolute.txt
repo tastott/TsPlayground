@@ -1,0 +1,5 @@
+C:\Users\Tim\Code\Tim.TsPlayground\Tim.TsPlayground.Library\bin\Tim.TsPlayground.Library.dll
+C:\Users\Tim\Code\Tim.TsPlayground\Tim.TsPlayground.Library\bin\Tim.TsPlayground.Library.pdb
+C:\Users\Tim\Code\Tim.TsPlayground\Tim.TsPlayground.Library\obj\Debug\Tim.TsPlayground.Library.dll
+C:\Users\Tim\Code\Tim.TsPlayground\Tim.TsPlayground.Library\obj\Debug\Tim.TsPlayground.Library.pdb
+C:\Users\Tim\Code\Tim.TsPlayground\Tim.TsPlayground.Library\obj\Debug\Tim.TsPlayground.Library.csprojResolveAssemblyReference.cache

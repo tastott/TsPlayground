@@ -1,0 +1,5 @@
+C:\Users\Tim\Code\Tim.TsPlayground\Tim.TsPlayground.Tests\obj\Debug\Tim.TsPlayground.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Code\Tim.TsPlayground\Tim.TsPlayground.Tests\bin\Tim.TsPlayground.Tests.dll
+C:\Users\Tim\Code\Tim.TsPlayground\Tim.TsPlayground.Tests\bin\Tim.TsPlayground.Tests.pdb
+C:\Users\Tim\Code\Tim.TsPlayground\Tim.TsPlayground.Tests\obj\Debug\Tim.TsPlayground.Tests.dll
+C:\Users\Tim\Code\Tim.TsPlayground\Tim.TsPlayground.Tests\obj\Debug\Tim.TsPlayground.Tests.pdb
